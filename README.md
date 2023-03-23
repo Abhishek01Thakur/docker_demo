@@ -11,5 +11,5 @@
 
 
 <h2>HOW TO RUN </h2>
-<p> docker pull docker-image-name </p>     
-<p> docker run -it -p 5001:5001 image-name </p>
+<p> docker pull <u>docker-image-name</u> </p> 
+<p> docker run -it -p 5001:5001 <u>image-name</u> </p>
