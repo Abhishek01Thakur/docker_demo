@@ -10,5 +10,5 @@
 
 
 <h2>HOW TO RUN </h2>
-<p> docker pull <docker-image-name> </p>      // Pull/download docker image from docker hub 
+<p> docker pull <docker-image-name> </p>     
 <p> docker run -it -p 5001:5001 <image-name> </p>
