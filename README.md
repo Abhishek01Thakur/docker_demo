@@ -2,7 +2,7 @@
 
 
 <h3>DOCKER  CONTAINER</h3>
-<img src= "" > 
+<img src= "./img/capture.jpg" > 
 
 
 <h1>Website on Flask<h1>
