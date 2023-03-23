@@ -6,7 +6,7 @@
 
 
 <h1>Website on Flask<h1>
-![image](https://user-images.githubusercontent.com/69719886/227291350-c3ad2ffd-4219-48c6-ade8-3fe8cb57a22b.png)
+<img src= "img/Capture2.JPG" > 
 
 
 
